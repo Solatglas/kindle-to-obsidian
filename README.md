@@ -1,6 +1,12 @@
 # Kindle to Obsidian
 
+[![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey.svg)]()
+
 Extract your Kindle highlights and notes into Obsidian markdown files.
+
+![Kindle to Obsidian Screenshot](screenshot.png)
 
 ## Quick Start
 
@@ -10,7 +16,7 @@ cd kindle-to-obsidian
 ./run.sh
 ```
 
-That's it. The GUI will open. Select your files and click Sync.
+The GUI will open. Select your files and click Sync.
 
 ---
 
